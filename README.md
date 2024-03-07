@@ -8,16 +8,16 @@ This analysis helps authorities make informed decisions about road maintenance, 
 
 Client Wants Accident Analysis for year 2021 and 2022. they want insights on below Requirements-
 
-1.Primary KPI- Total Casualities and Total Accident Values for Current Year and YOY growth.
+1.Primary KPI- Total Casualties taken place after the accident.
 
-2.Primary KPI's- Total Casualties by accident severity for current year and YoY growth.
+2.Primary KPI's- Total Casualties & percentage of total with respect to accident severity and maximum casualties by type of vehicle.
 
-3.Secondary KPI's- Total Casualties with respect to vechicles type for current year.
+3.Secondary KPI's- Total Casualties with respect to vehicle type.
 
 4.Monthly trend show comparison of casualties for current year and previous year.
 
-5.Casualties by road type for current year.
+5.Maximum Casualties by road type .
 
-6.Current year Caasualties by road or loacation and Day or Night.
+6.Distribution of total casualties by Road Surface.
 
-7.Total casualties and Total accident by location.
+7.Relation between Casualties by Area/ Location & by Day/Night.
